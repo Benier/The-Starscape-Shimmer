@@ -41,6 +41,15 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
+# Archives
+*.7z
+
+# Media
+*.avi
+*.ogv
+*.mp3
+
+
 # Binary Files
 Binaries/*
 
